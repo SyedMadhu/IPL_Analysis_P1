@@ -104,14 +104,45 @@ IPL_Analysis_P1/
 | Domain | Sports Analytics |
 
 ---
+## visualization
+<img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/f0a203d1-071d-4430-8553-ca37350a20a2" />
+
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/cd99292b-d67e-415b-802b-3339bdccfd83" />
+
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/9704fc50-5431-4257-9e8a-d3beba89ac83" />
+
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/8cf3fe63-f8a1-42e6-b86e-416f3e6f5f1e" />
+
+<img width="568" height="433" alt="image" src="https://github.com/user-attachments/assets/08290be2-a05f-498a-bba0-8cba70ba46d8" />
+
+<img width="543" height="433" alt="image" src="https://github.com/user-attachments/assets/f9aaeb6a-b19d-4abe-9fc6-f5eac2f84ea3" />
+
+<img width="552" height="433" alt="image" src="https://github.com/user-attachments/assets/fc22bfe5-9f96-4085-a1f2-fff6fb1498d7" />
+
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/69d04ead-3fe0-4fd8-bfe1-2198ef2c9b1c" />
+
+<img width="587" height="453" alt="image" src="https://github.com/user-attachments/assets/eb5a76ab-dde2-4e69-b233-54baa3d72654" />
+
+<img width="571" height="449" alt="image" src="https://github.com/user-attachments/assets/7bc95917-86bc-48f3-8457-f21048c0f4bb" />
+
+<img width="543" height="433" alt="image" src="https://github.com/user-attachments/assets/b16499ca-0ce9-4ebb-b7f8-6870cc40f925" />
+
+<img width="563" height="503" alt="image" src="https://github.com/user-attachments/assets/0e72e183-b7d3-4c72-9c6c-9c65e4cd0f8b" />
+
+
+
+
+
 
 ## 🚀 How to Run
 
 1. Clone the repository
 
-```bash
+
 git clone https://github.com/SyedMadhu/IPL_Analysis_P1.git
 cd IPL_Analysis_P1
+
+
 2. Install required libraries
 
 pip install pandas matplotlib seaborn mysql-connector-python
@@ -121,7 +152,7 @@ pip install pandas matplotlib seaborn mysql-connector-python
 
 jupyter notebook IPL_Analysis.ipynb
 
-📈 Key Insights
+## 📈 Key Insights
 
 Identified most dominant IPL teams
 
@@ -131,7 +162,7 @@ Measured team win percentages
 
 Evaluated player performance trends
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Deploy dashboards using Streamlit
 
@@ -141,5 +172,5 @@ Integrate Power BI dashboard
 
 Automate ETL pipeline
 
-👨‍💻 Author
+## 👨‍💻 Author
 Syed Madhu
