@@ -104,35 +104,27 @@ IPL_Analysis_P1/
 | Domain | Sports Analytics |
 
 ---
-## visualization
-<img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/f0a203d1-071d-4430-8553-ca37350a20a2" />
+## Visualization
 
-<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/cd99292b-d67e-415b-802b-3339bdccfd83" />
+<img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/b2a87d1c-14af-432d-b607-a0cb9cf6a738" />
 
-<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/9704fc50-5431-4257-9e8a-d3beba89ac83" />
+<img width="833" height="545" alt="image" src="https://github.com/user-attachments/assets/485a43f2-6be4-41bd-a2e0-a807de1fca0e" />
 
-<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/8cf3fe63-f8a1-42e6-b86e-416f3e6f5f1e" />
+<img width="554" height="453" alt="image" src="https://github.com/user-attachments/assets/b3ffe54e-92c6-4b96-9fae-0b1694afc59a" />
 
-<img width="568" height="433" alt="image" src="https://github.com/user-attachments/assets/08290be2-a05f-498a-bba0-8cba70ba46d8" />
+<img width="554" height="475" alt="image" src="https://github.com/user-attachments/assets/4458ffc8-8177-4162-bb65-f8aab9f772be" />
 
-<img width="543" height="433" alt="image" src="https://github.com/user-attachments/assets/f9aaeb6a-b19d-4abe-9fc6-f5eac2f84ea3" />
+<img width="495" height="409" alt="image" src="https://github.com/user-attachments/assets/daf382f3-da73-4931-993b-24360ee5ae21" />
 
-<img width="552" height="433" alt="image" src="https://github.com/user-attachments/assets/fc22bfe5-9f96-4085-a1f2-fff6fb1498d7" />
+<img width="564" height="436" alt="image" src="https://github.com/user-attachments/assets/d3e85172-2dc7-49b9-b74c-58cb8b3e8b68" />
 
-<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/69d04ead-3fe0-4fd8-bfe1-2198ef2c9b1c" />
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/3632f29c-3617-4f06-8b17-c71dca3987f5" />
 
-<img width="587" height="453" alt="image" src="https://github.com/user-attachments/assets/eb5a76ab-dde2-4e69-b233-54baa3d72654" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/ee2e8af2-6ed7-4e18-9900-f334abe7db75" />
 
-<img width="571" height="449" alt="image" src="https://github.com/user-attachments/assets/7bc95917-86bc-48f3-8457-f21048c0f4bb" />
+<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/2ee1539b-1aa6-4318-8186-162cd6118674" />
 
-<img width="543" height="433" alt="image" src="https://github.com/user-attachments/assets/b16499ca-0ce9-4ebb-b7f8-6870cc40f925" />
-
-<img width="563" height="503" alt="image" src="https://github.com/user-attachments/assets/0e72e183-b7d3-4c72-9c6c-9c65e4cd0f8b" />
-
-
-
-
-
+<img width="576" height="503" alt="image" src="https://github.com/user-attachments/assets/e1a6f7c8-1019-4019-b361-359eb02c2a47" />
 
 ## 🚀 How to Run
 
