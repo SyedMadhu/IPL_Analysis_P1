@@ -106,7 +106,7 @@ IPL_Analysis_P1/
 ---
 ## Visualization
 
-<img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/b2a87d1c-14af-432d-b607-a0cb9cf6a738" />
+  <img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/b2a87d1c-14af-432d-b607-a0cb9cf6a738" />
 
 <img width="833" height="545" alt="image" src="https://github.com/user-attachments/assets/485a43f2-6be4-41bd-a2e0-a807de1fca0e" />
 
